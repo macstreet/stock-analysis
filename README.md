@@ -7,7 +7,7 @@ This project aims to refactor code that analyzes a dataset of stock volume and r
 ## Results
 
 ### Stock Performance Between 2017 and 2018
-In 2017, almost all stocks saw a positive return in a range of 5.5% up to 199.4%. The only stock that had negative returns was TERP, of -7.2%. A year later, ten of these stocks saw a negative return, while only two saw a positive return. Almost all stocks saw a marked decline in their return percentage, with two exceptions. TERP increased its return slightly from -7.2% to -5.0%. RUN increased its return from +5.5% in 2017 to +84.0% in 2018. Along with RUN, ENPH was the only other stock to see a positive return during 2018 (+84.0%), although it was a smaller return than in 2017 (+129.5%.)
+In 2017, almost all stocks saw a positive return in a range of +5.5% up to +199.4%. The only stock that had negative returns was TERP, of -7.2%. A year later, ten of these stocks saw a negative return, while only two saw a positive return. Almost all stocks saw a marked decline in their return percentage, with two exceptions. TERP increased its return slightly from -7.2% to -5.0%. RUN increased its return from +5.5% in 2017 to +84.0% in 2018. Along with RUN, ENPH was the only other stock to see a positive return during 2018 (+84.0%), although it was a smaller return than in 2017 (+129.5%.)
     
    ![2017_All_Stocks_Analysis](https://user-images.githubusercontent.com/114192448/199311078-b461fccf-076c-4c18-b4a2-17eb2fab8ad8.png)
    ![2018_All_Stocks_Analysis](https://user-images.githubusercontent.com/114192448/199311121-5379d963-873c-4aff-9192-550b83eadd08.png)
