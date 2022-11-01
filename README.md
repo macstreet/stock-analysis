@@ -34,7 +34,7 @@ In order to ensure that the code would remain efficient even if large amounts of
 ## Summary
 ### 1. What are the advantages or disadvantages of refactoring code?
 One of the advantages of refactoring code is to improve the efficiency of the code running the analysis. As noted in the online modules, refactoring code could lead to using less memory, using fewer steps, and making the code easier to read by improving its logic.
-A disadvantage of refactoring code is the possibility of introducing bugs and errors into your code, resulting in additional time spent debugging [^1]. Another disadvantage is that there is no standard definition of what a "neat code" is, therefore programmers could had different ideas of what will be most easily read [^2].
+A disadvantage of refactoring code is the possibility of introducing bugs and errors into your code, resulting in additional time spent debugging [^1]. Another disadvantage is that there is no standard definition of what a "neat code" is, therefore different programmers could have different ideas of what will be most easily read [^2].
 
 [^1]: https://www.c-sharpcorner.com/article/pros-and-cons-of-code-refactoring/ 
 [^2]: https://www.ionos.com/digitalguide/websites/web-development/what-is-refactoring/     
